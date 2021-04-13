@@ -64,7 +64,7 @@ The reload of solution is required only the first time the project is loaded. Th
 
 To deploy and debug on the target, embedded Linux development board, set some breakpoint on the code and press `F5`:
 
-![](https://docs.toradex.com/109425-09-remotedeploydebug.gif?v=1)
+![](https://github.com/toradex/torizon-uno-platform-integration/blob/main/Assets/img/09-RemoteDeployDebug.gif?raw=true)
 
 Is possible evaluate variables using the mouse over, `VARIABLES`, `WATCH` and `DEBUG OUTPUT` panel.
 
@@ -72,7 +72,7 @@ Is possible evaluate variables using the mouse over, `VARIABLES`, `WATCH` and `D
 
 During a debug sessions is possible to use the Hot Reload feature. Edit the `.xaml` file been presented on the screen of target, save the changes and check the changes taking place in the application running:
 
-![](https://docs.toradex.com/109426-10-hotreload.gif?v=1)
+![](https://github.com/toradex/torizon-uno-platform-integration/blob/main/Assets/img/10-HotReload.gif?raw=true)
 
 ### Locally Debug & Hot Reload
 
