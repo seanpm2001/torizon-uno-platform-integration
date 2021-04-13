@@ -7,12 +7,14 @@ Torizon Uno Platform Integration delivers a better and easy experience for creat
 - OS Supported:
 	- Windows 10 Pro / Enterprise / Education
 	- Linux (it was validated using Ubuntu 20.04)
-- [Visual Studio Code Extension for Torizon](https://developer.toradex.com/knowledge-base/visual-studio-code-development-extension-pythonnet-core)
+- [Toradex Torizon Support Extension for Visual Studio Code](https://developer.toradex.com/knowledge-base/visual-studio-code-development-extension-pythonnet-core)
 - [Microsoft C# Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 - [Uno Platform Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=microhobby.uno-platform)
 - [.NET Core 3.1 SDK](https://dotnet.microsoft.com/download)
 - [.NET 5 SDK](https://dotnet.microsoft.com/download)
 - Toradex Hardware with [TorizonCore](https://developer.toradex.com/software/torizon) installed
+
+> ⚠️ Torizon Uno Platform Integration is only available in the early access version of the [Toradex Torizon Support Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Toradex.torizon-early-access)
 
 # Features
 
